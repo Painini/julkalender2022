@@ -1,0 +1,19 @@
+{
+  "name": "kodkalender2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dayone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Painini/julkalender2022.git"
+  },
+  "author": "Painini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Painini/julkalender2022/issues"
+  },
+  "homepage": "https://github.com/Painini/julkalender2022#readme"
+}
