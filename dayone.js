@@ -3,10 +3,9 @@ let positiveNumber = 0
 let negativeNumber = 0
 for (let index = 67; index < 96; index++) {
     positiveNumber += index;
-    
 }
 for (let index = 48; index < 64; index++) {
     negativeNumber += index;
-    
 }
 console.log(positiveNumber - negativeNumber);
+//Summan är 1461
